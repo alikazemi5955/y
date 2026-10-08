@@ -1,0 +1,13 @@
+[
+  {
+    "id": "usr-admin-default",
+    "username": "admin",
+    "name": "مدیر سیستم",
+    "role": "admin",
+    "password": "scrypt$f79a51cf83d31f2402c3f5d949d87db0$51e3582b8cfe94df7892079b81269f534e69c84fdcc2bc3013b37e09e198db423a09b417c68361eec86738fc000e2071491efd116fe8aaae89c5c9cd34d8d3a9",
+    "isActive": true,
+    "firstName": "مدیر",
+    "lastName": "سیستم",
+    "walletBalance": 0
+  }
+]

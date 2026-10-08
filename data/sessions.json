@@ -1,0 +1,107 @@
+[
+  {
+    "tokenHash": "26a3a5a39a345f97a34cf5b25517837360e494689792bc4e68e962bbff28a770",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791958141467
+  },
+  {
+    "tokenHash": "1a4a62d50ed8ba8c5ee4d59def88a4bb50be802cf319c6794864974d43a51b63",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791958467077
+  },
+  {
+    "tokenHash": "2b99efd903d557725135fa5b55db7590e80e1eef3af39c3a8da8f718bfb03639",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791958478550
+  },
+  {
+    "tokenHash": "5da17a10497b2373d00a25f34b20fb51bfb0f365842a636417a4a0c8beb60b20",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791958478793
+  },
+  {
+    "tokenHash": "7b93d5bb69b5be1b7e91fcf66e1404d2393ae94debd12de5f46e2375a1aa490d",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791958479001
+  },
+  {
+    "tokenHash": "318f2534d84e7e187390f57325cc6de728ed17c5a78f25ae371017554f988da3",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791958479061
+  },
+  {
+    "tokenHash": "5de016543580894a043f12db975a7fead00e81b3b378ec1042645d8db732aaa1",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791958479119
+  },
+  {
+    "tokenHash": "dc6e07c3576b9efaa59085548b4470e3cb73c778824d16e3c5388cced6e3ff62",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791958479284
+  },
+  {
+    "tokenHash": "c1d4452342a263cde36c9556bf8eb782563858df4aff407ca23a4ac3847b682b",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791958479340
+  },
+  {
+    "tokenHash": "28ecfe49850ebd68f8238778eb4d1bb022d2c673d2f872a5d58afa244cc74c88",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791958479552
+  },
+  {
+    "tokenHash": "802a1a6671684cde7fc07e2a7ef6c063177ccfaa7fa6ed1841c02677e731c7f1",
+    "role": "accounting",
+    "userId": "user_admin",
+    "username": "admin",
+    "exp": 1791958485393
+  },
+  {
+    "tokenHash": "c6c4c2aa169c9c58cdcfefa0bf0a639ec8d96c3ee2b09245c3b9b57cd4ca21fe",
+    "role": "accounting",
+    "userId": "user_admin",
+    "username": "admin",
+    "exp": 1791958485606
+  },
+  {
+    "tokenHash": "e55c8f694de1df759ad6c24397430e1cc056fc744b25baa99961e802c2e350df",
+    "role": "accounting",
+    "userId": "user_admin",
+    "username": "admin",
+    "exp": 1791958485813
+  },
+  {
+    "tokenHash": "8282d5b7056d3f9be428015b8ac36086c2df2765f72e07fd59042a7785395e17",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791960505994
+  },
+  {
+    "tokenHash": "6badd0267f045c194302e9d1091db25c6d178e4d9738f4533fb59f2b55c5973c",
+    "role": "admin",
+    "userId": "usr-admin-default",
+    "username": "admin",
+    "exp": 1791992917514
+  }
+]
